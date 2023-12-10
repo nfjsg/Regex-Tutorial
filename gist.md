@@ -162,4 +162,4 @@ Understanding look-ahead and look-behind assertions enhances the precision and f
 
 ## Author
 
-As the author of this tutorial, I'm passionate about simplifying complex concepts for fellow learners. Connect with me on [GitHub](your-github-link) for more insightful content and collaborative coding adventures.
+As the author of this tutorial, I'm passionate about simplifying complex concepts for fellow learners. Connect with me on [GitHub](https://github.com/nfjsg) for more insightful content and collaborative coding adventures.
